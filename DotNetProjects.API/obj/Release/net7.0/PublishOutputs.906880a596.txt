@@ -1,0 +1,12 @@
+/Users/praveenkumar/Desktop/Projects/DotNetProjects/DotNetProjects.API/bin/Release/net7.0/publish/DotNetProjects.API
+/Users/praveenkumar/Desktop/Projects/DotNetProjects/DotNetProjects.API/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/praveenkumar/Desktop/Projects/DotNetProjects/DotNetProjects.API/bin/Release/net7.0/publish/appsettings.json
+/Users/praveenkumar/Desktop/Projects/DotNetProjects/DotNetProjects.API/bin/Release/net7.0/publish/DotNetProjects.API.dll
+/Users/praveenkumar/Desktop/Projects/DotNetProjects/DotNetProjects.API/bin/Release/net7.0/publish/DotNetProjects.API.deps.json
+/Users/praveenkumar/Desktop/Projects/DotNetProjects/DotNetProjects.API/bin/Release/net7.0/publish/DotNetProjects.API.runtimeconfig.json
+/Users/praveenkumar/Desktop/Projects/DotNetProjects/DotNetProjects.API/bin/Release/net7.0/publish/DotNetProjects.API.pdb
+/Users/praveenkumar/Desktop/Projects/DotNetProjects/DotNetProjects.API/bin/Release/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/praveenkumar/Desktop/Projects/DotNetProjects/DotNetProjects.API/bin/Release/net7.0/publish/Microsoft.OpenApi.dll
+/Users/praveenkumar/Desktop/Projects/DotNetProjects/DotNetProjects.API/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/praveenkumar/Desktop/Projects/DotNetProjects/DotNetProjects.API/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/praveenkumar/Desktop/Projects/DotNetProjects/DotNetProjects.API/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
